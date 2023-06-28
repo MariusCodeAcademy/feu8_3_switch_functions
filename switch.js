@@ -56,10 +56,19 @@ let amzius = 15;
 // jei amzius yra 18 iki 55 - suauges
 // jei daugiau nei 56 - paauges
 
-if (amzius > 18) {
+// if (amzius < 18) {
+// }
 
-}
-
-switch () {
-  case  :
+switch (true) {
+  case amzius < 18:
+    console.log('vaikas');
+    break;
+  case amzius <= 55:
+    console.log('suauges');
+    break;
+  case amzius > 56:
+    console.log('paauges');
+    break;
+  default:
+    console.log('kazkas negerai su amzium');
 }
