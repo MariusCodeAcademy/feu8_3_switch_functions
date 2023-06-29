@@ -13,6 +13,7 @@
 2. parasyti funkcija divide kuri padalina pirma parametra is antro ir grazina
 3. parasyti funkcija avg kuri gauna 5 parametrus ir grazina ju vidurki
 4. parasyti funkcija flow() kurioje sudedam visu auksiau aprasytu funkciju rezultatus ir grazinam ir ispausdinam konsoleje.
+
 5. parasyti funkcija kuri gauna viena argumenta. patikrinti argumento tipa. Jei tipas yra:
 
 - tekstas - grazinti kiek raidziu turi tekstas
@@ -28,7 +29,7 @@
 
 Pastaba: Math.min() naudoti negalima.
 
-## edabit
+## edabit (spreskite su vscode ne puslapyje, atsikopijuokite salygas ir uzduotis )
 
 #### string
 
